@@ -3,9 +3,9 @@
 .slider {
   -webkit-appearance: none;
   appearance: none;
-  height: 6px;
+  height: 5px;
   border-radius: 9999px;
-  background: #3f3f46;
+  background: #e7e1d3;
   outline: none;
   cursor: pointer;
 }
@@ -16,9 +16,9 @@
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: #10b981;
-  border: 3px solid #18181b;
-  box-shadow: 0 0 0 1px #10b981;
+  background: #4f46e5;
+  border: 3px solid #ffffff;
+  box-shadow: 0 1px 4px rgba(49, 46, 129, 0.35), 0 0 0 1px #c7d2fe;
   transition: transform 0.15s ease;
 }
 
@@ -30,9 +30,9 @@
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: #10b981;
-  border: 3px solid #18181b;
-  box-shadow: 0 0 0 1px #10b981;
+  background: #4f46e5;
+  border: 3px solid #ffffff;
+  box-shadow: 0 1px 4px rgba(49, 46, 129, 0.35), 0 0 0 1px #c7d2fe;
   transition: transform 0.15s ease;
 }
 
