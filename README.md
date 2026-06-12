@@ -7,7 +7,7 @@
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white)
 
-**🔗 라이브 데모:** (배포 후 갱신)
+**🔗 라이브 데모:** https://jeonse-vs-monthly.vercel.app
 
 <!-- 스크린샷 -->
 
